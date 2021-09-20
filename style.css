@@ -25,3 +25,30 @@ body{
   overflow: hidden;
   color:#d5eebb;
 }
+
+.music-name, .artist-name{
+
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.music-name{
+  font-size: 40px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.artist-name{
+  font-size: 20px;
+}
+
+.disk{
+
+  position: relative;
+  display: block;
+  margin:40px auto;
+  width:180px;
+  height:180px;
+  border-radius: 50%;
+  background:#000;
+}
