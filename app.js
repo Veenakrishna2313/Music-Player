@@ -77,7 +77,7 @@ setInterval(()=>{
   });
 
 
-  //forward and backward function
+  //forward and backward function.....
 const playMusic=()=>{
   music.play();
   playBtn.classList.remove('pause');
